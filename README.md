@@ -7,7 +7,7 @@
   ### • Results
     • Visualization – Charts
     • Dashboard
-  • Discussion
+  ### • Discussion
     • Findings & Implications
-  • Conclusion
-  • Appendix
+ ### • Conclusion
+ ### • Appendix
