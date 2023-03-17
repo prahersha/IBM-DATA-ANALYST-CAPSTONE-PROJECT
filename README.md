@@ -1,10 +1,10 @@
 # IBM-DATA-ANALYST-CAPSTONE-PROJECT
 
-# OUTLINE
-  ## • Executive Summary
-  • Introduction
-  • Methodology
-  • Results
+## OUTLINE
+  ### • Executive Summary
+  ### • Introduction
+  ### • Methodology
+  ### • Results
     • Visualization – Charts
     • Dashboard
   • Discussion
