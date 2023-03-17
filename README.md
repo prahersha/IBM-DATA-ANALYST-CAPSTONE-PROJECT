@@ -1,7 +1,7 @@
 # IBM-DATA-ANALYST-CAPSTONE-PROJECT
 
 # OUTLINE
-  • Executive Summary
+  ## • Executive Summary
   • Introduction
   • Methodology
   • Results
