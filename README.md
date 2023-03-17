@@ -1,6 +1,5 @@
 # IBM-DATA-ANALYST-CAPSTONE-PROJECT
 
-# OUTLINE
   ## Executive Summary
    ### • Current Technology Trends
     • Top 5 Programming Languages
@@ -17,7 +16,8 @@
     • Respondent Count for Countries
     • Respondent count by Age
     • Respondent Count by Gender and classified by Formal Education Level
-  ## Introduction
+
+## Introduction
   ### • Analyze technology trends in IT industry around the world.
   ### • Purpose
     • Identify the top programming languages, databases,platforms, and web frames currently which are in use.
@@ -27,7 +27,8 @@
     • Programmers
     • IT industry leaders
     • Computer science students
-  ## Methodology
+
+## Methodology
   ### • Data Collection (sources)
     • Stack overflow developer 2019 survey
     • GitHub job postings
@@ -36,9 +37,6 @@
     • Scraping internet websites
     • Accessing APIs to collect data
     • Exploring Data
-    import pandas as pd
-    dataset_url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv"
-    df = pd.read_csv(dataset_url)
   ### • Data Wrangling
     • Finding Missing Values
     • Determine Missing Values
@@ -56,7 +54,8 @@
     • Comparison
   ### • Dashboard Creation
     • Final Presentation
-  ## Results
+ 
+ ## Results
   ### • Programming Language Trends
     • Insights
     • Findings & Implications
@@ -67,9 +66,11 @@
     • Current Technology Usage
     • Future Technology Trends
     • Demographics
+  
   ## Discussion
       • Technology Usage Trend Now and Future
       • Gender, Age, and Education Discrimination in IT Industry
+ 
  ## Conclusion
  ### • Findings 
     • Technology trends change every year.
@@ -80,5 +81,6 @@
     • Programmers should always follow the latest technology trends.
     • More countries should have an equal chance to be exposed to new technology.
     • Gender and Age should not be one of the concerns or benefits of Employment.
+ 
  ## Dashboard Link
     https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model00000186def4e0d3_00000000 
